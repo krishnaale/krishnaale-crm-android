@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="Theme.KrishnaAleCRM" parent="Theme.MaterialComponents.DayNight.NoActionBar">
+        <item name="colorPrimary">@color/portal_blue</item>
+        <item name="colorPrimaryVariant">@color/portal_blue_dark</item>
+        <item name="colorOnPrimary">@color/text_primary</item>
+        <item name="colorSecondary">@color/portal_blue_dark</item>
+        <item name="colorOnSecondary">@color/background</item>
+        <item name="android:statusBarColor">@color/portal_blue_dark</item>
+        <item name="android:windowBackground">@color/background</item>
+    </style>
+
+    <style name="Theme.KrishnaAleCRM.Splash" parent="Theme.KrishnaAleCRM">
+        <item name="android:windowBackground">@color/portal_blue</item>
+        <item name="android:statusBarColor">@color/portal_blue_dark</item>
+    </style>
+</resources>

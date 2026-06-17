@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Krishna Ale CRM</string>
+
+    <!-- Notification channels -->
+    <string name="channel_tasks_id">tasks</string>
+    <string name="channel_tasks_name">Tasks</string>
+    <string name="channel_tasks_desc">New tasks, assignments and completed work.</string>
+    <string name="channel_invoices_id">invoices</string>
+    <string name="channel_invoices_name">Invoices &amp; Payments</string>
+    <string name="channel_invoices_desc">New invoices and payment updates.</string>
+    <string name="channel_general_id">general</string>
+    <string name="channel_general_name">General</string>
+    <string name="channel_general_desc">General updates from your portal.</string>
+
+    <!-- App lock -->
+    <string name="lock_title">Unlock Krishna Ale CRM</string>
+    <string name="lock_subtitle">Use your fingerprint, face or device PIN</string>
+    <string name="lock_enabled">App lock turned on</string>
+    <string name="lock_disabled">App lock turned off</string>
+
+    <!-- Offline -->
+    <string name="offline_title">You\'re offline</string>
+    <string name="offline_message">We couldn\'t reach your portal. Check your connection and try again.</string>
+    <string name="retry">Try again</string>
+    <string name="still_offline">Still offline — check your connection.</string>
+
+    <!-- Downloads -->
+    <string name="downloading">Downloading…</string>
+    <string name="download_failed">Couldn\'t start the download.</string>
+    <string name="download_complete">Download complete</string>
+    <string name="choose_file">Choose file</string>
+    <string name="no_browser">No browser available to open this link.</string>
+
+    <!-- Email registration -->
+    <string name="email_title">Turn on notifications</string>
+    <string name="email_message">Enter the email you use to log into the portal so we can notify you about your tasks and invoices.</string>
+    <string name="email_hint">you@example.com</string>
+    <string name="email_invalid">Please enter a valid email address.</string>
+    <string name="notifications_on">Notifications enabled</string>
+
+    <!-- Buttons / menu -->
+    <string name="save">Save</string>
+    <string name="skip">Skip</string>
+    <string name="cancel">Cancel</string>
+    <string name="menu_refresh">Refresh</string>
+    <string name="menu_home">Home</string>
+    <string name="menu_email">Notification email</string>
+    <string name="menu_lock">App lock</string>
+    <string name="menu_open_browser">Open in browser</string>
+</resources>

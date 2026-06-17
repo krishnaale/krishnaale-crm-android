@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<paths>
+    <cache-path name="images" path="images/" />
+    <external-cache-path name="ext_images" path="images/" />
+    <!-- Blob downloads saved on API 26-28 land here -->
+    <external-files-path name="downloads" path="Download/" />
+</paths>

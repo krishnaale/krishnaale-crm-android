@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Brand colors -->
+    <color name="portal_blue">#90CAF9</color>
+    <color name="portal_blue_dark">#1E88E5</color>
+    <color name="background">#FFFFFF</color>
+    <color name="surface">#F5F5F5</color>
+    <color name="text_primary">#0D1B2A</color>
+    <color name="text_secondary">#546E7A</color>
+    <color name="notification_color">#90CAF9</color>
+    
+    <!-- Material theme colors -->
+    <color name="colorPrimary">#90CAF9</color>
+    <color name="colorPrimaryDark">#1565C0</color>
+    <color name="colorAccent">#1E88E5</color>
+    <color name="colorOnPrimary">#0D1B2A</color>
+</resources>

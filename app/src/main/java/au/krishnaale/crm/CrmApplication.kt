@@ -17,7 +17,7 @@ import androidx.lifecycle.ProcessLifecycleOwner
 class CrmApplication : Application(), DefaultLifecycleObserver {
 
     override fun onCreate() {
-        super.onCreate()
+        super<Application>.onCreate()
         createNotificationChannels()
         ProcessLifecycleOwner.get().lifecycle.addObserver(this)
     }
